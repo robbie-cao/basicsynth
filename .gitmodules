@@ -1,0 +1,18 @@
+[submodule "Documents"]
+	path = Documents
+	url = git@github.com:muaem/basicsynth-documents.git
+[submodule "Doxygen"]
+	path = Doxygen
+	url = git@github.com:muaem/basicsynth-doxygen.git
+[submodule "ExampleProjects"]
+	path = ExampleProjects
+	url = git@github.com:muaem/basicsynth-exampleprojects.git
+[submodule "Include"]
+	path = Include
+	url = git@github.com:muaem/basicsynth-include.git
+[submodule "OpenSource"]
+	path = OpenSource
+	url = git@github.com:muaem/basicsynth-opensource.git
+[submodule "Src"]
+	path = Src
+	url = git@github.com:muaem/basicsynth-src.git
