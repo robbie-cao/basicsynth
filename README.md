@@ -19,6 +19,14 @@ cvs -z3 -d:pserver:anonymous@basicsynth.cvs.sourceforge.net:/cvsroot/basicsynth 
 
 ## [BasicSynth Web Site](http://basicsynth.com)
 
+## Download Source
+
+```
+git clone git@github.com:robbie-cao/basicsynth.git
+git submodule init
+git submodule update
+```
+
 ## License
 
 GNU General Public License version 2.0 (GPLv2)
